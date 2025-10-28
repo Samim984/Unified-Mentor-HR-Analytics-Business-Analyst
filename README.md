@@ -37,7 +37,8 @@ Average Salary by Department, Gender Pay Gap, Salary vs Performance Relationship
 
 ➡️ Page 5 – Conclusion / HR Policy Impact
 Observation → Prediction → Solution Flow; Retention KPI Cards; Policy Improvement Insights
-<img width="1150" alt="Conclusion Page" src="https://github.com/user-attachments/assets/![HR 5 (6)_page-0001](https://github.com/user-attachments/assets/61ec19c3-439b-4163-85bc-867cb4d55db5)
+<img width="1150" alt="Conclusion Page" src="https://github.com/user-attachments/assets/<img width="5063" height="2375" alt="HR Front Page " src="https://github.com/user-attachments/assets/7873b5ed-2e6e-407a-9b91-193e3ec9f81e" />
+)
 " />
 <img width="1150" alt="Conclusion Page" src="https://github.com/user-attachments/assets/![HR 5 (7)_page-0001](https://github.com/user-attachments/assets/dbaa639e-7c6d-4aa1-9b4c-7e66d899c470)
 " />
