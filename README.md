@@ -21,19 +21,23 @@ Key KPIs: Headcount & Retention Rate; Headcount by Department, Gender, and Locat
 
 ➡️ Page 2 – Attrition Analysis
 Attrition Rate, Hire vs Attrition Trend, Service Length Impact, Department Risk Index
-<img width="1150" alt="Attrition Page" src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxxxxxx" />
+<img width="5063" height="2375" alt="hr Attrition" src="https://github.com/user-attachments/assets/1132873f-a7ba-4d8e-9be1-ba20fa0e08eb" />
 
 ➡️ Page 3 – Performance Dashboard
 Training vs Performance (R² = 0.18), Satisfaction Predictors, Top 15 Employees by Score
-<img width="1150" alt="Performance Page" src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxxxxxx" />
+<img width="5063" height="2375" alt="HR Performance1" src="https://github.com/user-attachments/assets/c588fc72-b893-4e45-92c5-61cd5c7145eb" />
+
+<img width="5063" height="2375" alt="HR Performance2" src="https://github.com/user-attachments/assets/1e2403b2-857e-4b1f-a0d3-363897afbdd2" />
 
 ➡️ Page 4 – Salary Dashboard
 Average Salary by Department, Gender Pay Gap, Salary vs Performance Relationship
-<img width="1150" alt="Salary Page" src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxxxxxx" />
+<img width="5063" height="2375" alt="HR Salary" src="https://github.com/user-attachments/assets/936b6266-d710-432d-b968-e545b0fc3395" />
 
 ➡️ Page 5 – Conclusion / HR Policy Impact
 Observation → Prediction → Solution Flow; Retention KPI Cards; Policy Improvement Insights
-<img width="1150" alt="Conclusion Page" src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxxxxxx" />
+<img width="5063" height="2375" alt="HR Conculusion1" src="https://github.com/user-attachments/assets/e177eefb-ebc6-469c-9c8c-001d8c9297ad" />
+
+<img width="5063" height="2375" alt="HR conclusion2" src="https://github.com/user-attachments/assets/f64541de-e66d-4d29-b8b8-8ecf5273afdc" />
 
 ---
 
