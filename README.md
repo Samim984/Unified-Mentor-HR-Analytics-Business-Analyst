@@ -98,6 +98,6 @@ Project: HR Analytics Dashboard – Employee Attrition & Retention Analysis
 ---
 
 
-🌐 Portfolio: samim984.github.io
+🌐 Portfolio: [samim984.github.io](url)
 
-💼 LinkedIn: linkedin.com/in/samim-imtiaz
+💼 LinkedIn: [linkedin.com/in/samim-imtiaz](url)
