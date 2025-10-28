@@ -17,8 +17,7 @@ The objective was to build an interactive Power BI dashboard for the HR departme
 
 ➡️ Page 1 – Overview (Workforce Stability)
 Key KPIs: Headcount & Retention Rate; Headcount by Department, Gender, and Location
-<img width="1150" alt="HR Overview Page" src="https://github.com/user-attachments/assets/<img width="5063" height="2375" alt="hr headcount" src="https://github.com/user-attachments/assets/b70683da-d231-443a-b0c9-d313bd3393b7" />
-" />
+<img width="5063" height="2375" alt="hr headcount" src="https://github.com/user-attachments/assets/b70683da-d231-443a-b0c9-d313bd3393b7" />
 
 ➡️ Page 2 – Attrition Analysis
 Attrition Rate, Hire vs Attrition Trend, Service Length Impact, Department Risk Index
