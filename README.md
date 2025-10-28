@@ -96,8 +96,3 @@ Project: HR Analytics Dashboard – Employee Attrition & Retention Analysis
 ➡️ Step 5: Review Problem–Prediction–Solution cards for actionable insights.
 
 ---
-
-
-🌐 Portfolio: [https://samim984.github.io](url)
-
-💼 LinkedIn:[ [linkedin.com/in/samim-imtiaz-611a35273]](url)
